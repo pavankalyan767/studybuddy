@@ -44,11 +44,8 @@ StudyBuddy
 - Create an account or log in if you already have one.
 - Start creating rooms under various topics, or join existing ones to participate in discussions.
 - View the latest messages on the home page and stay updated with ongoing conversations.
+![Screenshot from 2024-08-21 19-05-04](https://github.com/user-attachments/assets/38cd9f92-76a4-46c4-bd62-57467ea59c92)
+![Screenshot from 2024-08-21 19-04-21](https://github.com/user-attachments/assets/0e3f43d1-21a8-4f15-b5da-fff4852f703c)
+![Screenshot from 2024-08-21 19-03-47](https://github.com/user-attachments/assets/083b5f83-46e8-4ec3-a473-f863f1c27ec8)
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
-Feel free to adjust any sections as needed!
